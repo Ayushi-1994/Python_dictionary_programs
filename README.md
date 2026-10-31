@@ -1,73 +1,64 @@
+Python Dictionary Programs
 
-This repository contains commonly asked Python dictionary programs frequently used in coding interviews and beginner-to-intermediate Python practice.
+A collection of commonly asked Python dictionary programs for coding interviews, problem-solving practice, and Python fundamentals.
 
-Following are the most popular python dictionary programs:-
-1. frequency_count
-2. word_frequency
-3. merge_dictionaries
-4. sort_dictionary_by_value
-5. sort_dictionary_by_key
-6. key_with_max_value
-7. key_with_min_value
-8. invert_dictionary
-9. check_key_exists
-10. group_words_by_length
-11. create_dictionary_from_lists
-12. find_duplicate_elements
+Programs Included
 
-The programs cover these topics
+1. create_dictionary
+2. access_dictionary_values
+3. update_dictionary_value
+4. delete_dictionary_key
+5. check_key_exists
+6. dictionary_length
+7. iterate_dictionary
+8. merge_dictionaries
+9. sort_dictionary_by_key
+10. sort_dictionary_by_value
+11. find_max_value_key
+12. find_min_value_key
+13. count_character_frequency
+14. count_word_frequency
+15. remove_duplicate_values
+16. invert_dictionary
+17. group_words_by_length
+18. dictionary_comprehension_square
+19. sum_dictionary_values
+20. filter_dictionary_by_value
 
-Dictionary Basics
-Adding and Updating Values
-Removing Keys
-Accessing Keys and Values
-Dictionary Traversal
-Frequency Counting
-Duplicate Detection
-Merging Dictionaries
-Dictionary Comprehensions
-Sorting Dictionaries
-Maximum and Minimum Value Problems
-Grouping Data
-Nested Dictionaries
-Dictionary Conversion Problems
-Interview-Based Dictionary Questions
+Topics Covered
 
-Contents of Each Program Folder
+- Dictionary creation and initialization
+- Accessing keys and values
+- Adding, updating, and deleting entries
+- Dictionary traversal
+- Searching and lookups
+- Frequency counting
+- Sorting dictionaries
+- Dictionary comprehensions
+- Data grouping and transformation
+- Hash map based interview problems
 
-Each program folder contains:
+What Each Program Contains
 
-program.py
+- Python solution (.py file)
+- Detailed README.md
 
-Contains the complete Python solution with clear and readable code.
+Each README includes:
 
-README.md
+- Problem Statement
+- Sample Input
+- Sample Output
+- Approach
+- Logic Explanation
+- Time Complexity
+- Space Complexity
+- Key Python Concepts Used
 
-The README file for each program includes:
+Python Concepts Practiced
 
-Problem Statement
-Example Input
-Example Output
-Approach / Logic Explanation
-Step-by-Step Execution
-Time Complexity
-Space Complexity
-Key Python Concepts Used
-Interview Notes (where applicable)
-Learning Objectives
-
-By working through these programs, you will learn:
-
-Efficient use of Python dictionaries
-Common interview patterns involving key-value data
-Dictionary methods such as get(), setdefault(), update(), pop(), items(), keys(), and values()
-Usage of sorted(), max(), min(), lambda, and dictionary comprehensions
-Practical problem-solving using hash-based lookups
-Who Is This Repository For?
-Python Beginners
-Backend Developers
-Django Developers
-Coding Interview Preparation
-Data Structure & Algorithm Practice
-Anyone looking to strengthen dictionary fundamentals in Python
-
+- get()
+- setdefault()
+- update()
+- pop()
+- keys()
+- values
